@@ -1,3 +1,12 @@
+First React App
+
+Displays objects from an api and adds a search box to filter objects
+Used functional programming for app and components
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
